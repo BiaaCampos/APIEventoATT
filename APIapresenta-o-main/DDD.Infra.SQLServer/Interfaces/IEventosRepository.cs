@@ -14,6 +14,6 @@ namespace DDD.Infra.SQLServer.Interfaces
         public List<Eventos> GetPorNome(string nome);
         public void InsertEventos(Eventos eventos);
         public void UpdateEventos(Eventos eventos);
-        public void DeleteEventos(Eventos eventos);
+        public void SoftDeleteEventos(int idEvento);
     }
 }

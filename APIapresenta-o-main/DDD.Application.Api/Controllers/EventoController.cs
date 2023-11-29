@@ -68,16 +68,16 @@ namespace DDD.Application.Api.Controllers
             }
         }
 
-        // DELETE api/values/5
-        [HttpDelete()]
-        public ActionResult Delete([FromBody] Eventos eventos)
+        
+        [HttpPut("{id}")]
+        public ActionResult Delete(int id)
         {
             try
             {
-                if (eventos == null)
+                if (id == null)
                     return NotFound();
 
-                _eventosRepository.DeleteEventos(eventos);
+                _eventosRepository.SoftDeleteEventos(id);
                 return Ok("Evento Removido com sucesso!");
             }
             catch (Exception ex)

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
   },
   "projects": {
-    "C:\\biaTrabalhos\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj": {
+    "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\biaTrabalhos\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj",
         "projectName": "ApplicationService",
-        "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\ApplicationServiceVenda\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\APIEventoATT\\APIapresenta-o-main\\ApplicationServiceVenda\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj": {
-                "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj"
+              "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj"
               },
-              "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj"
+              "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj"
               }
             }
           }
@@ -66,25 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj": {
+    "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj",
         "projectName": "DDD.Application.Api",
-        "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Application.Api\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,21 +84,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\biaTrabalhos\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj": {
-                "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj"
+              "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\ApplicationServiceVenda\\ApplicationService.csproj"
               },
-              "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj": {
-                "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj"
+              "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj"
               },
-              "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
-                "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
+              "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
               }
             }
           }
@@ -165,25 +156,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj": {
+    "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj",
         "projectName": "DDD.DomainService",
-        "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.DomainService\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -197,8 +184,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
-                "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
+              "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
               }
             }
           }
@@ -228,25 +215,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj": {
+    "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj",
         "projectName": "DDD.Domain",
-        "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -313,25 +296,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+    "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
         "projectName": "DDD.Infra.SQLServer",
-        "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Infra.SQLServer\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Infra.SQLServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -345,8 +324,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "C:\\biaTrabalhos\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj"
+              "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj"
               }
             }
           }
@@ -406,7 +385,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

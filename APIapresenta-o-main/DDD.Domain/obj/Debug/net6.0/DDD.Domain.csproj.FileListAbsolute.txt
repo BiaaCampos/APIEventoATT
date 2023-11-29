@@ -55,3 +55,17 @@ C:\biaTrabalhos\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domai
 C:\biaTrabalhos\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
 C:\biaTrabalhos\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.genruntimeconfig.cache
 C:\biaTrabalhos\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\bin\Debug\net6.0\DDD.Domain.runtimeconfig.json
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\DDD.Domain.genruntimeconfig.cache
+C:\Users\PC\Source\Repos\APIEventoATT\APIapresenta-o-main\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll

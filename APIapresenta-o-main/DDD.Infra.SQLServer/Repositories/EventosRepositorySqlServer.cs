@@ -1,6 +1,7 @@
 ﻿using DDD.Domain.GeralContext;
 using DDD.Infra.SQLServer.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,11 +20,14 @@ namespace DDD.Infra.SQLServer.Repositories
             _context = context;
         }
 
-        public void DeleteEventos(Eventos eventos)
+        public void SoftDeleteEventos(int idEvento)
         {
             try
             {
-                _context.Set<Eventos>().Remove(eventos);
+                var vEvento = _context.Eventos.First(e => e.EventosId == idEvento);
+                if (vEvento == null) { throw new Exception(); }
+                vEvento.Ativo = false;
+                _context.Entry(vEvento).State = EntityState.Modified;
                 _context.SaveChanges();
             }
             catch (Exception ex)

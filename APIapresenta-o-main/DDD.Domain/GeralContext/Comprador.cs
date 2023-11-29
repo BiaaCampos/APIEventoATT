@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +16,9 @@ namespace DDD.Domain.GeralContext
         public int RA { get; set; }
         public string Senha { get; set; }
         public DateTime DataCadastro { get; set; }
+        [DefaultValue(true)]
         public bool Ativo { get; set; }
+
+
     }
 }
