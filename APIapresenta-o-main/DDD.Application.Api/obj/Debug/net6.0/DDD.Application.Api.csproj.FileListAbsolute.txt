@@ -1,0 +1,381 @@
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\ApplicationService.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.DomainService.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\ApplicationService.pdb
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\PC\source\repos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\ApplicationService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.DomainService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\ApplicationService.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.sourcelink.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\ApplicationService.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.DomainService.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\ApplicationService.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll

@@ -1,0 +1,58 @@
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.deps.json
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.dll
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.pdb
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.DomainService.dll
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.AssemblyInfo.cs
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.CopyComplete
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.dll
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\refint\ApplicationService.dll
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.pdb
+C:\Users\PC\source\repos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ref\ApplicationService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.deps.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.DomainService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.AssemblyInfo.cs
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.sourcelink.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.CopyComplete
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\refint\ApplicationService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\ApplicationServiceVenda\obj\Debug\net6.0\ref\ApplicationService.dll
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.deps.json
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.dll
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\ApplicationService.pdb
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Domain.dll
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\DDD.DomainService.dll
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Domain.pdb
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.AssemblyReference.cache
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.AssemblyInfoInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.AssemblyInfo.cs
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.CoreCompileInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.csproj.CopyComplete
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.dll
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\refint\ApplicationService.dll
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ApplicationService.pdb
+C:\biaTrabalhos\APIapresenta-o-main\ApplicationServiceVenda\obj\Debug\net6.0\ref\ApplicationService.dll

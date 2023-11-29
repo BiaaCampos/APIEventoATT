@@ -1,0 +1,69 @@
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\bia\EventoApi\p1-navarro\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.sourcelink.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll

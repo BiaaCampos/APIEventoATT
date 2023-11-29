@@ -1,0 +1,52 @@
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.deps.json
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.CopyComplete
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\refint\DDD.DomainService.dll
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\PC\Source\Repos\APIEventos\DDD.DomainService\obj\Debug\net6.0\ref\DDD.DomainService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.deps.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.AssemblyReference.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.AssemblyInfoInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.AssemblyInfo.cs
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.sourcelink.json
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.CopyComplete
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\refint\DDD.DomainService.dll
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.pdb
+C:\Users\Diego Ryan\Downloads\APIEventos\APIEventos\DDD.DomainService\obj\Debug\net6.0\ref\DDD.DomainService.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.deps.json
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\bin\Debug\net6.0\DDD.DomainService.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\bin\Debug\net6.0\DDD.Domain.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\bin\Debug\net6.0\DDD.Domain.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.AssemblyReference.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.GeneratedMSBuildEditorConfig.editorconfig
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.AssemblyInfoInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.AssemblyInfo.cs
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.CoreCompileInputs.cache
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.csproj.CopyComplete
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\refint\DDD.DomainService.dll
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\DDD.DomainService.pdb
+C:\biaTrabalhos\APIapresenta-o-main\DDD.DomainService\obj\Debug\net6.0\ref\DDD.DomainService.dll
