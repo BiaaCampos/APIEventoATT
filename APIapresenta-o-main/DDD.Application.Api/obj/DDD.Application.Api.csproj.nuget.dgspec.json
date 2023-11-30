@@ -73,7 +73,7 @@
         "projectName": "DDD.Application.Api",
         "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\DDD.Application.Api.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Application.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,7 +167,7 @@
         "projectName": "DDD.DomainService",
         "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\DDD.DomainService.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\APIEventoATT\\APIapresenta-o-main\\DDD.DomainService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,7 +226,7 @@
         "projectName": "DDD.Domain",
         "projectPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\DDD.Domain.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\APIEventoATT\\APIapresenta-o-main\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

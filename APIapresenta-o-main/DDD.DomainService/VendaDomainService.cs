@@ -18,14 +18,14 @@ namespace DDD.DomainService
             _eventosRepository = eventosRepository;
         }
 
-        public Venda GerarVenda(int idComprador, int idEvento, int qntdIng)
+        public Venda GerarVenda(int idComprador, int idEvento, int qntdIng, DateTime data)
         {
             try
             {
-       
+
                 var retComprador = _compradorRepository.GetCompradorById(idComprador);
                 var retEvento = _eventosRepository.GetEventosById(idEvento);
-                if ((retComprador == null ) || (retEvento == null))
+                if ((retComprador == null) || (retEvento == null))
                 {
                     throw new Exception("Comprador ou o Evento não existem");
                 }
@@ -33,6 +33,7 @@ namespace DDD.DomainService
                 insVenda.Compradores = retComprador;
                 insVenda.Eventos = retEvento;
                 DecIngresso(retEvento, qntdIng);
+                insVenda.Data = data;
                 insVenda.QtdIngresso = qntdIng;
                 retEvento.IngressosDisponiveis = retEvento.IngressosDisponiveis - qntdIng;
 
@@ -40,19 +41,19 @@ namespace DDD.DomainService
                 return insVenda;
 
             }
-            catch (Exception ex )
+            catch (Exception ex)
             {
                 throw ex;
             }
-            
+
         }
 
-        public void DecIngresso(Eventos eventoObj,int qntIng) 
+        public void DecIngresso(Eventos eventoObj, int qntIng)
         {
             eventoObj.IngressosDisponiveis = eventoObj.IngressosDisponiveis - qntIng;
             _eventosRepository.UpdateEventos(eventoObj);
-            
-            
+
+
         }
     }
 }

@@ -68,7 +68,7 @@ namespace DDD.Application.Api.Controllers
             }
         }
 
-        
+
         [HttpPut("{id}")]
         public ActionResult Delete(int id)
         {

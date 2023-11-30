@@ -42,37 +42,25 @@ namespace DDD.Application.Api.Controllers
         }
 
 
-        [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] Comprador comprador)
+        [HttpPut]
+        public ActionResult Put([FromBody] Comprador comprador)
         {
             try
             {
-                if (comprador == null || id != comprador.Id)
-                    return BadRequest("Invalid request data. Please check the request body and parameters.");
 
-                var existingComprador = _compradorRepository.GetCompradorById(id);
-
-                if (existingComprador == null)
+                if (comprador.Id == null)
                 {
-                    // Log that the Comprador was not found
-                    Console.WriteLine($"Comprador with id {id} not found.");
-                    return NotFound("Comprador not found.");
+                    Console.WriteLine($"Comprador nao encontrado.");
+                    return NotFound("Comprador nao encontrado.");
                 }
 
                 _compradorRepository.UpdateComprador(comprador);
 
-                // Log the successful update
-                Console.WriteLine($"Comprador with id {id} updated successfully.");
-
-                return Ok("Comprador updated successfully!");
+                return Ok("Comprador Encontrado com sucesso!");
             }
             catch (Exception ex)
             {
-                // Log the exception for further investigation
-                Console.WriteLine($"Error in PUT request: {ex.Message}");
-
-                // Return a more informative error message in the response body
-                return StatusCode(StatusCodes.Status500InternalServerError, "An error occurred while processing the request. Please try again.");
+                throw ex;
             }
         }
 

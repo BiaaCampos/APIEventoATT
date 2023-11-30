@@ -34,9 +34,9 @@ namespace DDD.Application.Api.Controllers
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<Venda> CreateVenda(int idComprador,int idEvento, int qntdIng)
+        public ActionResult<Venda> CreateVenda(int idComprador, int idEvento, int qntdIng, DateTime data)
         {
-            var gerandoVenda = _vendaAppService.GerarVenda(idComprador, idEvento, qntdIng);
+            var gerandoVenda = _vendaAppService.GerarVenda(idComprador, idEvento, qntdIng, data);
 
 
             return CreatedAtAction(nameof(GetById), new { id = gerandoVenda.VendaId }, gerandoVenda);

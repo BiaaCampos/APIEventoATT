@@ -11,9 +11,9 @@ namespace ApplicationServiceVenda
         {
             _vendaDomainService = vendaDomainService;
         }
-        public Venda GerarVenda(int idComprador, int idEvento, int qntIng)
+        public Venda GerarVenda(int idComprador, int idEvento, int qntdIng, DateTime data)
         {
-            var inserirVenda = _vendaDomainService.GerarVenda(idComprador, idEvento, qntIng);
+            var inserirVenda = _vendaDomainService.GerarVenda(idComprador, idEvento, qntdIng, data);
             return inserirVenda;
 
         }
